@@ -1,6 +1,6 @@
 package stats
 import (
-	"github.com/beki0312/bank/pkg/types"
+	"github.com/beki0312/bank/v2/pkg/types"
 	"reflect"
 	"testing"
 	"fmt"
