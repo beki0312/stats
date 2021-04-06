@@ -1,9 +1,8 @@
 package stats
 
 import (
-	"github.com/beki0312/bank/v2/pkg/types"
+	"github.com/beki0312/bank/pkg/types"
 
-)
 
 //Avg рассчитывет средную сума платежа
 func Avg(payments []types.Payment)types.Money{
